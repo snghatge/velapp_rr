@@ -1,9 +1,9 @@
-pipeline {
+ho ""pipeline {
 
 		agent any
 		
 		stages {
-		
+	
 			stage (one) {
 			
 				steps {
@@ -18,7 +18,7 @@ pipeline {
 			
 				steps {
 				
-				    sleep 5
+				    echo "this is master branch"
 				
 				}
 			
