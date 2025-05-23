@@ -8,7 +8,7 @@ pipeline {
 			
 				steps {
 				
-				    sleep 10
+				    sleep 5
 				
 				}
 			
@@ -18,7 +18,7 @@ pipeline {
 			
 				steps {
 				
-				    sleep 10
+				    sleep 5
 				
 				}
 			
