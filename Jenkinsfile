@@ -4,7 +4,7 @@ pipeline {
 		
 		stages {
 		
-			stage (one){
+			stage (one) {
 			
 				steps {
 				
@@ -14,7 +14,7 @@ pipeline {
 			
 			}
 			
-			stage (two){
+			stage (two) {
 			
 				steps {
 				
@@ -25,7 +25,7 @@ pipeline {
 			}
 			
 		}
-
+}
 
 
 
