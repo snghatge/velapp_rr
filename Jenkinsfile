@@ -1,6 +1,6 @@
-ho ""pipeline {
+pipeline {
 
-		agent any
+	agent any
 		
 		stages {
 	
@@ -24,7 +24,7 @@ ho ""pipeline {
 			
 			}
 			
-		}
+	 }
 }
 
 
